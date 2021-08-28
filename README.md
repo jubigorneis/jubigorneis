@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jubigorneis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, Eu sou a Júlia de Paiva Ribeiro
+- 🌱 Estou cursando Tecnologia em Sistemas Para Internet 
+- RA: 20010504-5
+- 📫 São José do rio Pardo - SP
 
-<!---
-jubigorneis/jubigorneis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
